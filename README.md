@@ -2,7 +2,7 @@
 ## I'm a QA Engineer
 
 ### My CV
-[View the CV](https://drive.google.com/file/d/1AJOf9WI97mujL7HbqOILNTrWdfjGnNCz/view?usp=sharing)
+[View the CV](https://drive.google.com/file/d/1SuHfAlZZNOJc6DdMSGttuvmFUOdUAMfm/view?usp=sharing)
 
 ### My portfolio
 - [QA Automation](https://github.com/YuriiSenko2/QA-Automation)
@@ -14,8 +14,7 @@
 ![Header](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=.r48jcc)
 ![Header](https://img.shields.io/badge/-PyTest-090909?style=for-the-badge&logo=PuTest&logoColor=.r48jcc)
 ![Header](https://img.shields.io/badge/-BeautifulSoup-090909?style=for-the-badge&logo=BeautifulSoup&logoColor=.r48jcc)
-![Header](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=.r48jcc)
-![Header](https://img.shields.io/badge/-TeamCity-090909?style=for-the-badge&logo=TeamCity&logoColor=.r48jcc)
+![Header](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=.r48jcc)
 ![Header](https://img.shields.io/badge/-AllureReport-090909?style=for-the-badge&logo=AllureReport&logoColor=.r48jcc)
 ![Header](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052cc)
 ![Header](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=0052cc)
