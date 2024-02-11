@@ -2,7 +2,7 @@
 ## I'm a QA Engineer
 
 ### My CV
-[View the CV](https://drive.google.com/file/d/1zQm0pJr0IMCycmA675V2n01BR57sj3Bd/view?usp=sharing)
+[View the CV](https://drive.google.com/file/d/1wL-Gj0pauppTM0sASNGa1oXgyZZtS6o0/view?usp=sharing)
 
 ### My portfolio
 - [QA Automation](https://github.com/YuriiSenko2/QA-Automation)
