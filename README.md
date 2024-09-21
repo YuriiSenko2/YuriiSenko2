@@ -1,12 +1,8 @@
 ![Header](https://github.com/YuriiSenko2/YuriiSenko2/blob/main/assets/header.png)
 ## I'm a QA Engineer
 
-### My CV
-[View the CV](https://drive.google.com/file/d/1hc6NsSYsU5a4HybjgaiLQUSiNbJIq8Se/view?usp=sharing)
-
 ### My portfolio
 - [QA Automation](https://github.com/YuriiSenko2/QA-Automation)
-- [QA Manual](https://github.com/YuriiSenko2/QA-Manual)
 - [Python](https://github.com/YuriiSenko2/Python)
 
 ### Programming Language and Tools
@@ -31,12 +27,5 @@
 ![Header](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=34a853)
 ![Header](https://img.shields.io/badge/-AzureDevops-090909?style=for-the-badge&logo=AzureDevops&logoColor=0052cc)
-
-
-### Contact me
-[![Header](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0073b1)](https://www.linkedin.com/in/yurii-senko1/)
-[![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0073b1)](https://t.me/yuris603)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiSenko&show_icons=true&theme=apprentice)
